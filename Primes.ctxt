@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Primes
+comment0.text=\r\n\ modeled\ from\ pythonexamples/primes.py\ by\ Ilkka\ Kokkarinen\ July\ 2019\r\n
+comment1.params=n
+comment1.target=void\ expandPrimes(int)
+comment2.params=n
+comment2.target=boolean\ isPrime(int)
+comment3.params=k
+comment3.target=int\ kthPrime(int)
+comment4.params=n
+comment4.target=java.util.List\ factorize(int)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
